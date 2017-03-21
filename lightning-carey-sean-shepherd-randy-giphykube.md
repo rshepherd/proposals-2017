@@ -1,6 +1,6 @@
 #giphykube
 
-[Randy Shepherd & Sean Carey (aut0mat0n1c)](http://twitter.com/aut0mat0n1c)
+[Anthony Johnson & Randy Shepherd (aut0mat0n1c)](http://twitter.com/aut0mat0n1c)
 
 Giphy
 
